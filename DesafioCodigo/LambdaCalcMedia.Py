@@ -1,0 +1,1 @@
+ media = lambda notas: sum([int(i) for i in notas]) / 4

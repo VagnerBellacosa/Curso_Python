@@ -1,0 +1,1 @@
+resultado = 'João programa em Python, Java, PHP e Ruby'.split(',')

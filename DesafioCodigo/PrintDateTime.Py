@@ -1,0 +1,1 @@
+print (data_atual.strftime ('%d/%m/%y %H:%M:%S'))

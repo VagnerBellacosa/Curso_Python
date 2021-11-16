@@ -15,16 +15,16 @@
 
 ## Programação em Python 
 
-### ![image-20210822160315426](Image\image-20210822160315426.png) Aulas e apontamnetos
+### ![image-20210822160315426](Image/image-20210822160315426.png) Aulas e apontamentos
 [Aulas em Python](/AulasPython)  - Aulas em Python   <br> <br>
 
-### ![image-20210822160335257](Image\image-20210822160335257.png) Curso em Python
+### ![image-20210822160335257](Image/image-20210822160335257.png) Curso em Python
 [Curso em Python](/CursoPython)  - Curso em Python   <br> <br>
 
-###  ![image-20210822160424968](Image\image-20210822160424968.png) Desafio de Codigo dos  bootcamps
+###  ![image-20210822160424968](Image/image-20210822160424968.png) Desafio de Codigo dos  bootcamps
 [DesafioCodigo](/DesafioCodigo)  - Desafio de Codigo em Python no Bootcamps da DIO   <br> <br>
 
-### ![image-20210822160447431](Image\image-20210822160447431.png) Tutoriais
+### ![image-20210822160447431](Image/image-20210822160447431.png) Tutoriais
 [Tutoriais em Python](/Tutorial)  - Tutoriais e Sebentas em Python   <br> <br>
 
 
